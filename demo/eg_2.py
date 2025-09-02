@@ -1,5 +1,4 @@
 # Demo 2: Logic bug in conditional
-
 def is_even(n):
     if n % 2 == 1:  # BUG: incorrect check
         return True
