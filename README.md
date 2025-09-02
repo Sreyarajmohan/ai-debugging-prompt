@@ -47,5 +47,3 @@ demo/eg_2.py
 demo/eg_3.py
 ```
 Thank you for reviewing my submission.
-
-Thank you for reviewing my submission.
