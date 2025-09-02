@@ -1,6 +1,6 @@
 # Design Choices for AI Debugging Assistant Prompt
 
-I chose to focus on asking questions and providing hints rather than giving direct solutions. This encourages students to engage with their code and develop problem-solving skills.
+I chose to focus on asking questions and providing hints rather than giving direct solutions. This encourages students to engage with their code and develop problem solving skills.
 
 The prompt explicitly instructs the AI to avoid revealing the exact fix, which is important to maintain the educational value of the assistant.
 
