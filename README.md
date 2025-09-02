@@ -10,7 +10,7 @@ This repository contains my submission for the AI Debugging Assistant internship
 
 ## Purpose
 
-The goal of this prompt is to help students identify bugs in their Python code by receiving hints and questions from the AI — without giving away direct answers. The assistant encourages critical thinking and adapts to the learner’s level.
+The goal of this prompt is to help students identify bugs in their Python code by receiving hints and questions from the AI without giving away direct answers. The assistant encourages critical thinking and adapts to the learner’s level.
 
 
 Thank you for reviewing my submission.
