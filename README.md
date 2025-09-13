@@ -8,6 +8,27 @@ This repository contains my submission for the AI Debugging Assistant internship
 - reasoning.md: Explanation of the approach, tone, and adaptability of the prompt.
 - design_choices.md: The reasoning behind key decisions made while crafting the prompt.
 - demo: Example Python scripts demonstrating AI hints in action.
+- 
+## Setup Instructions
+1. Clone the Repository
+git clone https://github.com/FOSSEE/workshop_booking.git
+
+cd workshop_booking
+
+3. Open the Project in a Code Editor
+
+4. Run the Website
+Option A: Open index.html Directly
+
+Go to the project folder
+
+Double-click index.html to open it in your browser
+
+Option B: Use Live Server (VS Code)
+
+Install "Live Server" extension in VS Code
+
+Right-click index.html → Open with Live Server
 
 ## Purpose
 
